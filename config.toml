@@ -7,7 +7,7 @@ uglyurls = true
   mainSections = ['episodes']
   baseURL = 'https://giveupenglish.org'
   logo = 'https://giveupenglish.org/images/podcast.jpg'
-  author = 'Jason'
+  author = 'QUITTER'
   email = 'jason@giveupenglish.com'
   podcastLanguage = 'en-us'
   podcastGenerator = 'giveupenglish.org'
@@ -16,9 +16,9 @@ uglyurls = true
   podcastLicense = 'CC-BY-SA'
   podcastTitle = 'GIVE UP ENGLISH'
   podcastArt = 'https://giveupenglish.org/images/podcast.jpg'
-  podcastSubtitle = 'Sorry, I would like to give up...'
+  podcastSubtitle = 'Sorry, I would like to give up...🤪'
   podcastSummary = '''
-  Sorry, I would like to give up as English is too difficult for me...<br /><br />
+  Sorry, I would like to give up English as it is just too difficult for me...🤪<br /><br />
   <a href="https://giveupenglish.org">giveupenglish.org</a>
   '''
 
