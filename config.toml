@@ -4,7 +4,7 @@ theme = 'blank'
 uglyurls = true
 
 [Params]
-  mainSections = ['posts']
+  mainSections = ['episodes']
   baseURL = 'https://giveupenglish.org'
   logo = 'https://giveupenglish.org/images/logo.jpg'
   author = 'Jason'
