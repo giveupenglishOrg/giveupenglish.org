@@ -1,24 +1,25 @@
-baseURL = 'https://example.com'
-title = 'Example Site'
+baseURL = 'https://giveupenglish.org'
+title = 'GIVE UP ENGLISH'
 theme = 'blank'
 uglyurls = true
 
 [Params]
   mainSections = ['posts']
-  baseURL = 'https://example.com'
-  logo = 'https://example.com/images/logo.jpg'
-  author = 'author'
-  email = 'hi@example.com'
+  baseURL = 'https://giveupenglish.org'
+  logo = 'https://giveupenglish.org/images/logo.jpg'
+  author = 'Jason'
+  email = 'jason@giveupenglish.com'
   podcastLanguage = 'en-us'
-  podcastGenerator = 'example.com'
+  podcastGenerator = 'giveupenglish.org'
   itunesCategory1 = 'Society &amp; Culture'
   itunesCategory2 = 'Personal Journals'
   podcastLicense = 'CC-BY-SA'
-  podcastTitle = 'Example Site'
-  podcastArt = 'https://example.com/images/art.jpg'
-  podcastSubtitle = 'Example Site Subtitle'
+  podcastTitle = 'GIVE UP ENGLISH'
+  podcastArt = 'https://giveupenglish.org/images/art.jpg'
+  podcastSubtitle = 'Sorry, I would like to give up...'
   podcastSummary = '''
-  <a href="https://example.com">example.com</a>
+  Sorry, I would like to give up as English is too difficult for me...<br /><br />
+  <a href="https://giveupenglish.org">giveupenglish.org</a>
   '''
 
 [outputFormats]
