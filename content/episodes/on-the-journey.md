@@ -14,4 +14,8 @@ external_mp3 = "yes"
 mp3 = "https://k-2022.giveupenglish.org/daniel-wu_on-the-journey.mp3"
 +++
 
-音频：[link](https://k-2022.giveupenglish.org/daniel-wu_on-the-journey.mp3)
+The important thing is what you learn along the way, the destination may not be important, it’s about what - the experience and how it enriches you as a human being.
+
+Be in the moment and smell the roses.🌹
+
+🎙[link](https://k-2022.giveupenglish.org/daniel-wu_on-the-journey.mp3)
