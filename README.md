@@ -1,3 +1,3 @@
-# Hugo Demo
+Sorry, I would like to give up English as it is just too difficult for me...🤪
 
-A very simple Hugo Podcast site using [blank](https://github.com/jsntn/blank) theme with a `rss.xml` layout.
+🔗 https://giveupenglish.org
