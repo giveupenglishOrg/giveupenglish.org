@@ -9,7 +9,7 @@ description = "I have a dream that my four little children will one day live in 
 summary = "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character."
 url = "/i-have-a-dream.html"
 duration = "00:16:27"
-length = 
+length = 9398038
 external_mp3 = "yes"
 mp3 = "https://ia600207.us.archive.org/29/items/MLKDream/MLKDream.mp3"
 +++
